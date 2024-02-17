@@ -1,6 +1,6 @@
 ## Malware Analysis (WannaCry)
 
-**Static analysis:**
+### Static analysis
 
 **VirusTotal Report:**
 <img src="https://i.imgur.com/IHnNOWa.png">
